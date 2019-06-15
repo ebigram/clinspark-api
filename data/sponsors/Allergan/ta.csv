@@ -1,0 +1,69 @@
+STUDYID,DOMAIN,ARMCD,ARM,TAETORD,ETCD,ELEMENT,TABRANCH,TATRANS,EPOCH
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,1.0,SCRN,Screening,Randomized to Sequence 1: ABC,,SCREENING
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,3.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,5.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,7.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ01,Sequence 1: ABC,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,1.0,SCRN,Screening,Randomized to Sequence 2: ACB,,SCREENING
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,3.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,5.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,7.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ02,Sequence 2: ACB,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,1.0,SCRN,Screening,Randomized to Sequence 3: BAC,,SCREENING
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,3.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,5.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,7.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ03,Sequence 3: BAC,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,1.0,SCRN,Screening,Randomized to Sequence 4: BCA,,SCREENING
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,3.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,5.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,7.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ04,Sequence 4: BCA,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,1.0,SCRN,Screening,Randomized to Sequence 5: CAB,,SCREENING
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,3.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,5.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,7.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ05,Sequence 5: CAB,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,1.0,SCRN,Screening,Randomized to Sequence 6: CBA,,SCREENING
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,3.0,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),,,TREATMENT
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,5.0,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),,,TREATMENT
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,6.0,BASEP3,Baseline Period 3,,,BASELINE
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,7.0,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),,,TREATMENT
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,8.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,ASEQ06,Sequence 6: CBA,9.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,BSEQ01,Sequence 1: DE,1.0,SCRN,Screening,Randomized to Sequence 1: DE,,SCREENING
+3110-103-002,TA,BSEQ01,Sequence 1: DE,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,BSEQ01,Sequence 1: DE,3.0,FED,Fed TBM Ubrogepant 1 x 100 mg (Test 3),,,TREATMENT
+3110-103-002,TA,BSEQ01,Sequence 1: DE,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,BSEQ01,Sequence 1: DE,5.0,FASTED,Fasted TBM Ubrogepant 1 x 100 mg (Reference 2),,,TREATMENT
+3110-103-002,TA,BSEQ01,Sequence 1: DE,6.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,BSEQ01,Sequence 1: DE,7.0,FOLLOWUP,Follow-up,,,FOLLOW-UP
+3110-103-002,TA,BSEQ02,Sequence 2: ED,1.0,SCRN,Screening,Randomized to Sequence 2: ED,,SCREENING
+3110-103-002,TA,BSEQ02,Sequence 2: ED,2.0,BASEP1,Baseline Period 1,,,BASELINE
+3110-103-002,TA,BSEQ02,Sequence 2: ED,3.0,FASTED,Fasted TBM Ubrogepant 1 x 100 mg (Reference 2),,,TREATMENT
+3110-103-002,TA,BSEQ02,Sequence 2: ED,4.0,BASEP2,Baseline Period 2,,,BASELINE
+3110-103-002,TA,BSEQ02,Sequence 2: ED,5.0,FED,Fed TBM Ubrogepant 1 x 100 mg (Test 3),,,TREATMENT
+3110-103-002,TA,BSEQ02,Sequence 2: ED,6.0,ET/EOT,Early Termination/ End of Treament,,,END OF TREATMENT
+3110-103-002,TA,BSEQ02,Sequence 2: ED,7.0,FOLLOWUP,Follow-up,,,FOLLOW-UP

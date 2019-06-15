@@ -1,0 +1,5 @@
+STUDYID,DOMAIN,USUBJID,CMSEQ,CMTRT,CMDECOD,CMCAT,CMINDC,CMCLAS,CMCLASCD,CMDOSE,CMDOSTXT,CMDOSU,CMDOSFRQ,CMROUTE,EPOCH,CMSTDTC,CMENDTC,CMSTDY,CMENDY,CMENRF
+3110-103-002,CM,3110-103-002.103001136,1.0,Halls cough drop,HALL'S MENTHO-LYPTUS (Eucalyptus globulus oil;Menthol),Concomitant Medication,Sore throat,n/a,n/a,nan,one,OTHER,ONCE,ORAL,TREATMENT,2018-03-31T11:30:00,2018-03-31T12:30:00,9.0,9.0,DURING
+3110-103-002,CM,3110-103-002.103001150,1.0,Paragard,Intrauterine contraceptive device,Prior Medication,Contraception,Intrauterine contraceptives,G02BA,1.0,,OTHER,OTHER,Other,,2017-08-18,,-217.0,nan,ONGOING
+3110-103-002,CM,3110-103-002.103001325,1.0,Paragard,Intrauterine contraceptive device,Prior Medication,Contraception,Intrauterine contraceptives,G02BA,1.0,,OTHER,OTHER,Other,,2017-05,,nan,nan,ONGOING
+3110-103-002,CM,3110-103-002.103001327,1.0,Paragard,Intrauterine contraceptive device,Prior Medication,Contraception,Intrauterine contraceptives,G02BA,1.0,,OTHER,OTHER,Other,,2015-08,,nan,nan,ONGOING

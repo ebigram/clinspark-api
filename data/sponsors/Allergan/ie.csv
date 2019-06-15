@@ -1,0 +1,5 @@
+STUDYID,DOMAIN,USUBJID,IESEQ,IETESTCD,IETEST,IECAT,IEORRES,IESTRESC,VISITNUM,VISIT,EPOCH
+3110-103-002,IE,3110-103-002.103001007,1.0,EX403,Abnormal and clinically significant results, according to the investigator or designee, on physical examination, medical history, serum chemistry, hematology, or urinalysis.,EXCLUSION,Y,Y,7.0,Period 2 Day 7,BASELINE
+3110-103-002,IE,3110-103-002.103001058,1.0,EX403,Abnormal and clinically significant results, according to the investigator or designee, on physical examination, medical history, serum chemistry, hematology, or urinalysis.,EXCLUSION,Y,Y,7.0,Period 2 Day 7,BASELINE
+3110-103-002,IE,3110-103-002.103001156,1.0,EX203,Positive urine test results for benzoylecgonine (cocaine), methadone, barbiturates, amphetamines, benzodiazepines, alcohol, cannabinoids, opiates, phencyclidine, or cotinine at screening or Day -1.,EXCLUSION,Y,Y,7.0,Period 2 Day 7,BASELINE
+3110-103-002,IE,3110-103-002.103001234,1.0,IN701,Able, as assessed by the investigator, and willing to follow study instructions and likely to complete all required study visits.,INCLUSION,N,N,7.0,Period 2 Day 7,SCREENING

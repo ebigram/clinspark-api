@@ -1,0 +1,29 @@
+STUDYID,DOMAIN,IETESTCD,IETEST,IECAT
+3110-103-002,TI,IN101,Participant must be 18 to 45 years of age inclusive, at the time of signing the informed consent.,INCLUSION
+3110-103-002,TI,IN201,Healthy Volunteer.,INCLUSION
+3110-103-002,TI,IN202,Have a sitting pulse rate (PR) >= 50 and <= 100 bpm during the vital sign assessment at the Screening Visit.,INCLUSION
+3110-103-002,TI,IN203,Be nonsmoking and a nonuser of nicotine-containing products (never smoked or used nicotinecontaining products or have not smoked or used nicotine-containing products within the previous 1 year).,INCLUSION
+3110-103-002,TI,IN301,Have a body mass index (BMI) >= 18 kg/m2 and <=30 kg/m2, at the Screening Visit.,INCLUSION
+3110-103-002,TI,IN401,Male or female.,INCLUSION
+3110-103-002,TI,IN501,Male participants willing to minimize the risk of inducing pregnancy for the duration of the clinical study and follow-up period.,INCLUSION
+3110-103-002,TI,IN502,Female participants willing to minimize the risk of inducing pregnancy for the duration of the clinical study and through 30 days after the last dose of study treatment.,INCLUSION
+3110-103-002,TI,IN601,Capable of giving signed informed consent, which includes compliance with the requirements and restrictions listed in the informed consent form (ICF) and in this protocol.,INCLUSION
+3110-103-002,TI,IN701,Able, as assessed by the investigator, and willing to follow study instructions and likely to complete all required study visits.,INCLUSION
+3110-103-002,TI,EX101,Clinically significant disease state, in the opinion of the examining investigator or designee, in any body system.,EXCLUSION
+3110-103-002,TI,EX102,Any clinical condition or previous surgery that might affect the absorption, distribution, biotransformation, or excretion of ubrogepant.,EXCLUSION
+3110-103-002,TI,EX103,History of alcohol or other substance abuse within the previous 5 years.,EXCLUSION
+3110-103-002,TI,EX104,Known hypersensitivity to calcitonin gene-related peptide (CGRP) receptor antagonists.,EXCLUSION
+3110-103-002,TI,EX201,Have taken any concomitant medications within 14 days before study treatment administration, or hormonal drug products within 30 days before study treatment administration.,EXCLUSION
+3110-103-002,TI,EX202,Participants who have taken herbal preparations containing St. John's wort within 30 days prior to dosing.,EXCLUSION
+3110-103-002,TI,EX203,Positive urine test results for benzoylecgonine (cocaine), methadone, barbiturates, amphetamines, benzodiazepines, alcohol, cannabinoids, opiates, phencyclidine, or cotinine at screening or Day -1.,EXCLUSION
+3110-103-002,TI,EX301,Previously taken ubrogepant or previously participated in an investigational study of ubrogepant.,EXCLUSION
+3110-103-002,TI,EX302,Participation in any other clinical investigation using an experimental drug requiring repeated blood or plasma draws within 60 days of study treatment administration.,EXCLUSION
+3110-103-002,TI,EX303,Participation in a blood or plasma donation program within 60 or 30 days, respectively, of study treatment administration.,EXCLUSION
+3110-103-002,TI,EX401,Sitting systolic blood pressure (BP) >= 140 or <= 90 mm Hg or sitting diastolic BP >= 90 or <= 50 mm Hg at screening.,EXCLUSION
+3110-103-002,TI,EX402,Abnormal electrocardiogram (ECG) results thought to be potentially clinically significant (PCS) according to the Investigator, or QT prolongation at screening.,EXCLUSION
+3110-103-002,TI,EX403,Abnormal and clinically significant results, according to the investigator or designee, on physical examination, medical history, serum chemistry, hematology, or urinalysis.,EXCLUSION
+3110-103-002,TI,EX404,Positive test results for anti-human immunodeficiency virus type 1 and type 2 antibody, hepatitis B surface antigen, or anti-hepatitis C virus antibody at screening.,EXCLUSION
+3110-103-002,TI,EX501,Consumption of caffeine or xanthine-containing compounds within 48 hours, or alcohol within 72 hours before administration of study treatment.,EXCLUSION
+3110-103-002,TI,EX502,Have taken dietary supplements or other foods or beverages that may affect various drug metabolizing enzymes and transporter within 14 days prior to dosing.,EXCLUSION
+3110-103-002,TI,EX503,Employee, or immediate relative of an employee, of the sponsor, any of its affiliates or partners, or the study center.,EXCLUSION
+3110-103-002,TI,EX504,Breastfeeding.,EXCLUSION

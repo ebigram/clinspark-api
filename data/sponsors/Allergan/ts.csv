@@ -1,0 +1,50 @@
+STUDYID,DOMAIN,TSSEQ,TSPARMCD,TSPARM,TSVAL,TSVALNF,TSVALCD,TSVCDREF,TSVCDVER
+3110-103-002,TS,1.0,ACTSUB,Actual Number of Subjects,47,,,,
+3110-103-002,TS,2.0,ACTSUB,Actual Number of Subjects,18,,,,
+3110-103-002,TS,1.0,ADAPT,Adaptive Design,N,,C49487,CDISC,2016-06-24
+3110-103-002,TS,1.0,ADDON,Added on to Existing Treatments,N,,C49487,CDISC,2016-06-24
+3110-103-002,TS,1.0,AGEMAX,Planned Maximum Age of Subjects,P45Y,,,ISO 8601,
+3110-103-002,TS,1.0,AGEMIN,Planned Minimum Age of Subjects,P18Y,,,ISO 8601,
+3110-103-002,TS,1.0,COMPTRT,Comparative Treatment Name,,NA,,ISO 21090,
+3110-103-002,TS,1.0,DCUTDESC,Data Cutoff Description,Database Lock,,,,
+3110-103-002,TS,1.0,DCUTDTC,Data Cutoff Date,2018-06-28,,,ISO 8601,
+3110-103-002,TS,1.0,DOSE,Dose per Administration,100,,,,
+3110-103-002,TS,1.0,DOSFRQ,Dosing Frequency,ONCE,,C64576,CDISC,2016-06-24
+3110-103-002,TS,1.0,DOSU,Dose Units,mg,,C64840,CDISC,2016-06-24
+3110-103-002,TS,1.0,FCNTRY,Planned Country of Investigational Sites,USA,,840,ISO 3166,
+3110-103-002,TS,1.0,HLTSUBJI,Healthy Subject Indicator,Y,,C49488,CDISC,2016-06-24
+3110-103-002,TS,1.0,INDIC,Trial Indication,Migraine,,,SNOMED,
+3110-103-002,TS,1.0,INTMODEL,Intervention Model,CROSS-OVER,,C82637,CDISC,2016-06-24
+3110-103-002,TS,1.0,INTTYPE,Intervention Type,DRUG,,C1909,CDISC,2016-06-24
+3110-103-002,TS,1.0,LENGTH,Trial Length,P59D,,,ISO 8601,
+3110-103-002,TS,1.0,NARMS,Planned Number of Arms,8,,,,
+3110-103-002,TS,1.0,OBJPRIM,Trial Primary Objective,To compare the systemic exposure of ubrogepant following single-dose administration of to-be-marketed (TBM) and clinical trial (CT) tablet formulations of ubrogepant in healthy adult participants,,,,
+3110-103-002,TS,2.0,OBJPRIM,Trial Primary Objective,To quantify the effect of a high-fat meal on the systemic exposure of ubrogepant following single-dose administration of TBM tablet formulation of ubrogepant in healthy adult participants,,,,
+3110-103-002,TS,1.0,OBJSEC,Trial Secondary Objective,To evaluate secondary pharmacokinetic (PK) parameters of ubrogepant following administration of TBM and CT tablet formulations,,,,
+3110-103-002,TS,2.0,OBJSEC,Trial Secondary Objective,To assess safety and tolerability of ubrogepant administered as TBM or CT tablet formulations,,,,
+3110-103-002,TS,1.0,OUTMSPRI,Primary Outcome Measure,Pharmacokinetic Assessments,,,,
+3110-103-002,TS,2.0,OUTMSPRI,Primary Outcome Measure,Safety and Tolerability Assessments,,,,
+3110-103-002,TS,1.0,PCLAS,Pharmacologic Class,,NI,,ISO 21090,
+3110-103-002,TS,1.0,PLANSUB,Planned Number of Subjects,60,,,,
+3110-103-002,TS,1.0,RANDOM,Trial is Randomized,Y,,C49488,CDISC,2016-06-24
+3110-103-002,TS,1.0,REGID,Registry Identifier,NOT REGISTERED,,,,
+3110-103-002,TS,1.0,ROUTE,Route of Administration,ORAL,,C38288,CDISC,2016-06-24
+3110-103-002,TS,1.0,SENDTC,Study End Date,2018-06-08,,,ISO 8601,
+3110-103-002,TS,1.0,SEXPOP,Sex of Participants,BOTH,,C49636,CDISC,2016-06-24
+3110-103-002,TS,1.0,SPONSOR,Clinical Study Sponsor,Allergan Pharmaceuticals International Limited,,,DUNS,
+3110-103-002,TS,1.0,SSTDTC,Study Start Date,2018-03-09,,,ISO 8601,
+3110-103-002,TS,1.0,STOPRULE,Study Stop Rules,,NA,,ISO 21090,
+3110-103-002,TS,1.0,STYPE,Study Type,INTERVENTIONAL,,C98388,CDISC,2016-06-24
+3110-103-002,TS,1.0,TBLIND,Trial Blinding Schema,OPEN LABEL,,C49659,CDISC,2016-06-24
+3110-103-002,TS,1.0,TCNTRL,Control Type,ACTIVE,,C49649,CDISC,2016-06-24
+3110-103-002,TS,2.0,TCNTRL,Control Type,DOSE RESPONSE,,C120841,CDISC,2016-06-24
+3110-103-002,TS,1.0,TDIGRP,Diagnosis Group,HEALTHY SUBJECTS,,C49651,CDISC,2016-06-24
+3110-103-002,TS,1.0,TINDTP,Trial Indication Type,TREATMENT,,C49656,CDISC,2016-06-24
+3110-103-002,TS,1.0,TITLE,Trial Title,A Phase 1, 2-Part, Single-Center, Single-Dose, Open-Label, Randomized, Bioequivalence Study Comparing 2 Strengths of the To-Be-Marketed Tablet Formulation of Ubrogepant versus the Clinical Trial,,,,
+3110-103-002,TS,1.0,TPHASE,Trial Phase Classification,PHASE I TRIAL,,C15600,CDISC,2016-06-24
+3110-103-002,TS,1.0,TRT,Investigational Therapy or Treatment,Ubrogepant,,AD0O8X2QJR,UNII,
+3110-103-002,TS,1.0,TTYPE,Trial Type,BIO-EQUIVALENCE,,C49665,CDISC,2016-06-24
+3110-103-002,TS,2.0,TTYPE,Trial Type,FOOD EFFECT,,C98729,CDISC,2016-06-24
+3110-103-002,TS,3.0,TTYPE,Trial Type,PHARMACOKINETIC,,C49663,CDISC,2016-06-24
+3110-103-002,TS,4.0,TTYPE,Trial Type,SAFETY,,C49667,CDISC,2016-06-24
+3110-103-002,TS,5.0,TTYPE,Trial Type,TOLERABILITY,,C98791,CDISC,2016-06-24

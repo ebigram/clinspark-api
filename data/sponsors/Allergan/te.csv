@@ -1,0 +1,12 @@
+STUDYID,DOMAIN,ETCD,ELEMENT,TESTRL,TEENRL,TEDUR
+3110-103-002,TE,SCRN,Screening,Informed Consent Signed,Randomized,P15D
+3110-103-002,TE,BASEP1,Baseline Period 1,1 Day before dosing in Period 1,Dosing: Period 1,P1D
+3110-103-002,TE,BASEP2,Baseline Period 2,1 Day before dosing in Period 2,Dosing: Period 2,P1D
+3110-103-002,TE,BASEP3,Baseline Period 3,1 Day before dosing in Period 3,Dosing: Period 3,P1D
+3110-103-002,TE,TBM1100,TBM Ubrogepant 1 x 100 mg (Test 1),Dosing: TBM Ubrogepant 1 x 100 mg (Test 1),1 Day after dosing of TBM Ubrogepant 1 x 100 mg (Test 1),P2D
+3110-103-002,TE,TBM250,TBM Ubrogepant 2 x 50 mg (Test 2),Dosing: TBM Ubrogepant 2 x 50 mg (Test 2),1 Day after dosing of TBM Ubrogepant 2 x 50 mg (Test 2),P2D
+3110-103-002,TE,CT250,CT Ubrogepant 2 x 50 mg (Reference 1),Dosing: CT Ubrogepant 2 x 50 mg (Reference 1),1 Day after dosing of CT Ubrogepant 2 x 50 mg (Reference 1),P2D
+3110-103-002,TE,FED,Fed TBM Ubrogepant 1 x 100 mg (Test 3),Dosing: Fed TBM Ubrogepant 1 x 100 mg (Test 3),1 Day after fed dosing of TBM Ubrogepant 1 x 100 mg (Test 3),P2D
+3110-103-002,TE,FASTED,Fasted TBM Ubrogepant 1 x 100 mg (Reference 2),Dosing: Fasted TBM Ubrogepant 1 x 100 mg (Reference 2),1 Day after fasted dosing of TBM Ubrogepant 1 x 100 mg (Reference 2),P2D
+3110-103-002,TE,ET/EOT,Early Termination/ End of Treament,2 Days after last dose,1 Day after start of element,P1D
+3110-103-002,TE,FOLLOWUP,Follow-up,30 Days after last dose,1 Day after start of element,P1D
